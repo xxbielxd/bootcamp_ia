@@ -2,7 +2,7 @@
 
 Minha equipe foi selecionada para resolver o principal problema da empresa Wtec Suprimentos, uma importadora de diversos suprimentos de informática, como cabos, cartuchos de impressoras, mouses, teclados, câmeras e outros produtos relacionados. O negócio da Wtec Suprimentos é importar esses produtos e revendê-los para pequenas lojas, redes de armarinhos e grandes redes de supermercado.
 
-## Os problemas a serem resolvidos são:
+##### Os problemas a serem resolvidos são:
 
 1 - Traçar uma estratégia comum para cada grupo de cliente, mesmo que atualmente não existam informações claras sobre o segmento do cliente ou tamanho. Isso ajudaria o time de marketing e análise de crédito a tomar decisões mais eficientes com base em informações precisas.
 
