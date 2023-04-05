@@ -14,7 +14,7 @@ Minha equipe foi selecionada para resolver o principal problema da empresa Wtec 
 
 #### Soluções 
 
-Criamos um pitch de 3 minutos apresentado, que resolve o problema: [Pitch](https://github.com/xxbielxd/bootcamp_ia/blob/main/apresenta%C3%A7%C3%A3o/Pitch_Bootcamp.pptx)
+Criamos um pitch de 3 minutos apresentado, que resolve o problema: [Pitch](https://github.com/xxbielxd/bootcamp_ia/blob/main/apresenta%C3%A7%C3%A3o/Pitch_Bootcamp.pptx?raw=true)
 
 Criamos um Jupyter Notebook para gerar os modelos : [Jupyter Notebook](https://github.com/xxbielxd/bootcamp_ia/blob/main/Trabalho_Final_MBA_Intelige%CC%82ncia_Artificial_e_Machine_Learning.ipynb) 
 
