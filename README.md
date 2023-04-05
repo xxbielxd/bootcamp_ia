@@ -1,4 +1,4 @@
-#### Qual a proposta?
+### Qual a proposta?
 
 Minha equipe foi selecionada para resolver o principal problema da empresa Wtec Suprimentos, uma importadora de diversos suprimentos de informática, como cabos, cartuchos de impressoras, mouses, teclados, câmeras e outros produtos relacionados. O negócio da Wtec Suprimentos é importar esses produtos e revendê-los para pequenas lojas, redes de armarinhos e grandes redes de supermercado.
 
@@ -12,7 +12,7 @@ Minha equipe foi selecionada para resolver o principal problema da empresa Wtec 
 
 4 - Para alcançar esses objetivos, a empresa precisará realizar uma análise aprofundada de seus dados e desenvolver soluções personalizadas para cada um dos problemas identificados. Será necessário trabalhar em estreita colaboração com a equipe da empresa e entender suas necessidades e processos para desenvolver soluções que atendam às suas expectativas e objetivos de negócios.
 
-#### Soluções 
+### Soluções 
 
 Criamos um pitch de 3 minutos apresentado, que resolve o problema: [Pitch](https://github.com/xxbielxd/bootcamp_ia/blob/main/apresenta%C3%A7%C3%A3o/Pitch_Bootcamp.pptx?raw=true)
 
@@ -30,7 +30,7 @@ Além disso criamos um website e um painel dos clientes, segue as imagens:
 
 Todas as tela estão funcionando em nossa infra, usando docker.
 
-#### Como executar a infra do projeto?
+### Como executar a infra do projeto?
 
 - Primeiramente instale o Docker https://www.docker.com/products/docker-desktop/
 - Acesse a pasta infra ```cd infra``` obs: você deve estar na pasta do projeto no console.
