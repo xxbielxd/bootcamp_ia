@@ -21,8 +21,8 @@ Criamos um Jupyter Notebook para gerar os modelos : [Jupyter Notebook](https://g
 Além disso criamos um website e um painel dos clientes, segue as imagens:
 
 - <a href="https://github.com/xxbielxd/bootcamp_ia/blob/main/img/website.png?raw=true" target="_blank">Web Site</a>
-- <a href="https://github.com/xxbielxd/bootcamp_ia/blob/main/img/website.png?raw=true" target="_blank">Tela de Login</a>
-- <a href="https://github.com/xxbielxd/bootcamp_ia/blob/main/img/cadastro_cliente.png?raw=true" target="_blank">Cadastro de novos clientes</a>
+- <a href="https://github.com/xxbielxd/bootcamp_ia/blob/main/img/login.png?raw=true" target="_blank">Tela de Login</a>
+- <a href="https://github.com/xxbielxd/bootcamp_ia/blob/main/img/novos_clientes.png?raw=true" target="_blank">Cadastro de novos clientes</a>
 - <a href="https://github.com/xxbielxd/bootcamp_ia/blob/main/img/dashboard.png?raw=true" target="_blank">Dashboard do cliente</a>
 - <a href="https://github.com/xxbielxd/bootcamp_ia/blob/main/img/credito.png?raw=true" target="_blank">Resumo de crédito</a>
 - <a href="https://github.com/xxbielxd/bootcamp_ia/blob/main/img/solicitar_credito.png?raw=true" target="_blank">Solicitar crédito</a>
