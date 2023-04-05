@@ -14,11 +14,21 @@ Minha equipe foi selecionada para resolver o principal problema da empresa Wtec 
 
 #### Soluções 
 
-Criamos um pitch de 3 minutos apresentado, que resolve o problema: [Pitch] (https://github.com/xxbielxd/bootcamp_ia/blob/main/apresenta%C3%A7%C3%A3o/Pitch_Bootcamp.pptx)
+Criamos um pitch de 3 minutos apresentado, que resolve o problema: [Pitch](https://github.com/xxbielxd/bootcamp_ia/blob/main/apresenta%C3%A7%C3%A3o/Pitch_Bootcamp.pptx)
 
-Criamos um Jupyter Notebook para gerar os modelos : [Jupyter Notebook] (https://github.com/xxbielxd/bootcamp_ia/blob/main/Trabalho_Final_MBA_Intelige%CC%82ncia_Artificial_e_Machine_Learning.ipynb) 
+Criamos um Jupyter Notebook para gerar os modelos : [Jupyter Notebook](https://github.com/xxbielxd/bootcamp_ia/blob/main/Trabalho_Final_MBA_Intelige%CC%82ncia_Artificial_e_Machine_Learning.ipynb) 
 
-Além disso criamos um website e um painel dos clientes:
+Além disso criamos um website e um painel dos clientes, segue as imagens:
+
+- [Web Site](https://github.com/xxbielxd/bootcamp_ia/blob/main/img/website.png?raw=true)
+- [Tela de Login](https://github.com/xxbielxd/bootcamp_ia/blob/main/img/login.png?raw=true)
+- [Cadastro de novos clientes](https://github.com/xxbielxd/bootcamp_ia/blob/main/img/novos_clientes.png?raw=true)
+- [Dashboard do cliente](https://github.com/xxbielxd/bootcamp_ia/blob/main/img/dashboard.png?raw=true)
+- [Resumo de crédito](https://github.com/xxbielxd/bootcamp_ia/blob/main/img/credito.png?raw=true)
+- [Solicitar crédito](https://github.com/xxbielxd/bootcamp_ia/blob/main/img/solicitar_credito.png?raw=true)
+- [Lojinha online](https://github.com/xxbielxd/bootcamp_ia/blob/main/img/loja.png?raw=true)
+
+Todas as tela estão funcionando em nossa infra, usando docker.
 
 #### Como executar a infra do projeto?
 
