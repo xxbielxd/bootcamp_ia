@@ -33,13 +33,13 @@ Todas as tela estão funcionando em nossa infra, usando docker.
 #### Como executar a infra do projeto?
 
 - Primeiramente instale o Docker https://www.docker.com/products/docker-desktop/
-- Acesse a pasta infra
-- Execute o código ```docker-compose up -d ```
-- Para acompanhar o passo-a-passo da maquina subindo rode ```docker logs -t -f api```
+- Acesse a pasta infra ```cd infra``` obs: você deve estar na pasta do projeto no console.
+- Execute o código no console ```docker-compose up -d ```
+- Para acompanhar o passo-a-passo da maquina subindo rode no console: ```docker logs -t -f api```
 
 ### Plataforma Web - Como utilizar
 
-- Rodar o site em: http://127.0.0.1:8081
+- Acesse o site em: http://127.0.0.1:8081
 - Acessar a página de login em http://127.0.0.1:8081/login.html
 - Logar com os dados:
     - CNPJ: ***KEBE17609492220843***
