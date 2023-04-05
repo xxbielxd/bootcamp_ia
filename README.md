@@ -20,13 +20,13 @@ Criamos um Jupyter Notebook para gerar os modelos : [Jupyter Notebook](https://g
 
 Além disso criamos um website e um painel dos clientes, segue as imagens:
 
-- [Web Site](https://github.com/xxbielxd/bootcamp_ia/blob/main/img/website.png?raw=true)
-- [Tela de Login](https://github.com/xxbielxd/bootcamp_ia/blob/main/img/login.png?raw=true)
-- [Cadastro de novos clientes](https://github.com/xxbielxd/bootcamp_ia/blob/main/img/novos_clientes.png?raw=true)
-- [Dashboard do cliente](https://github.com/xxbielxd/bootcamp_ia/blob/main/img/dashboard.png?raw=true)
-- [Resumo de crédito](https://github.com/xxbielxd/bootcamp_ia/blob/main/img/credito.png?raw=true)
-- [Solicitar crédito](https://github.com/xxbielxd/bootcamp_ia/blob/main/img/solicitar_credito.png?raw=true)
-- [Lojinha online](https://github.com/xxbielxd/bootcamp_ia/blob/main/img/loja.png?raw=true)
+- <a href="https://github.com/xxbielxd/bootcamp_ia/blob/main/img/website.png?raw=true">Web Site</a>
+- <a href="https://github.com/xxbielxd/bootcamp_ia/blob/main/img/website.png?raw=true">Tela de Login</a>
+- <a href="https://github.com/xxbielxd/bootcamp_ia/blob/main/img/cadastro_cliente.png?raw=true">Cadastro de novos clientes</a>
+- <a href="https://github.com/xxbielxd/bootcamp_ia/blob/main/img/dashboard.png?raw=true">Dashboard do cliente</a>
+- <a href="https://github.com/xxbielxd/bootcamp_ia/blob/main/img/credito.png?raw=true">Resumo de crédito</a>
+- <a href="https://github.com/xxbielxd/bootcamp_ia/blob/main/img/solicitar_credito.png?raw=true">Solicitar crédito</a>
+- <a href="https://github.com/xxbielxd/bootcamp_ia/blob/main/img/loja.png?raw=true">Lojinha online</a>
 
 Todas as tela estão funcionando em nossa infra, usando docker.
 
