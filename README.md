@@ -33,6 +33,7 @@ Todas as tela estão funcionando em nossa infra, usando docker.
 ### Como executar a infra do projeto?
 
 - Primeiramente instale o Docker https://www.docker.com/products/docker-desktop/
+- Clone o projeto na sua maquina.
 - Acesse a pasta infra ```cd infra``` obs: você deve estar na pasta do projeto no console.
 - Execute o código no console ```docker-compose up -d ```
 - Para acompanhar o passo-a-passo da maquina subindo rode no console: ```docker logs -t -f api```
